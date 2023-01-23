@@ -675,12 +675,188 @@
           "fileFingerprint": 672008208,
           "modId": 690628
         }
+      },
+      {
+        "name": "Freecam (Fabric/Forge)",
+        "version": "[Forge] Freecam 1.1.6 for MC 1.19",
+        "optional": true,
+        "file": "freecam-forge-1.1.6+1.19.jar",
+        "type": "mods",
+        "description": "A simple, standalone freecam mod.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 557076,
+        "curseForgeFileId": 4141421,
+        "curseForgeProject": {
+          "id": 557076,
+          "name": "Freecam (Fabric/Forge)",
+          "authors": [
+            {
+              "id": 477257,
+              "name": "hashalites",
+              "url": "https://www.curseforge.com/members/102900906-hashalites?username=hashalites"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple, standalone freecam mod.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "free-cam",
+          "isFeatured": false,
+          "dateModified": "2022-12-19T12:12:31.18Z",
+          "dateCreated": "2021-12-14T05:44:18.597Z",
+          "dateReleased": "2022-12-19T04:41:50.527Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/free-cam",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 467941,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/467/941/256/256/637750574586450724.png",
+            "title": "637750574586450724.png",
+            "url": "https://media.forgecdn.net/avatars/467/941/637750574586450724.png",
+            "modId": 557076
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4203516
+        },
+        "curseForgeFile": {
+          "id": 4141421,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge] Freecam 1.1.6 for MC 1.19",
+          "fileName": "freecam-forge-1.1.6+1.19.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-12-07T05:56:15.487Z",
+          "fileLength": 45925,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2205630165,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2149228481,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2799398545,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1971599604,
+              "name": "freecam.mixins.json"
+            },
+            {
+              "fingerprint": 1434818781,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 117774055,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3384722541,
+              "name": "freecam.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3594db101c7ee3e90b9477f7dc1bdd9f01f60af3",
+              "algo": 1
+            },
+            {
+              "value": "a7943145219b0bce54fbd13c38987512",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2994520402,
+          "modId": 557076
+        }
       }
     ],
     "ignoredUpdates": [],
     "vanillaInstance": true,
-    "lastPlayed": 1674497912321,
-    "numPlays": 2
+    "lastPlayed": 1674516502225,
+    "numPlays": 3
   },
   "id": "1.19.2",
   "complianceLevel": 1,
