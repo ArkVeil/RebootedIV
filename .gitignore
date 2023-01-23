@@ -1,0 +1,8 @@
+
+logs/
+saves/
+usercache.json
+usernamecache.json
+servers.dat_old
+servers.dat
+realms_persistence.json
