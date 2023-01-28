@@ -851,12 +851,639 @@
           "fileFingerprint": 2994520402,
           "modId": 557076
         }
+      },
+      {
+        "name": "Jade ?",
+        "version": "Jade-1.19.1-forge-8.7.0.jar",
+        "optional": true,
+        "file": "Jade-1.19.1-forge-8.7.0.jar",
+        "type": "mods",
+        "description": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 324717,
+        "curseForgeFileId": 4318618,
+        "curseForgeProject": {
+          "id": 324717,
+          "name": "Jade ?",
+          "authors": [
+            {
+              "id": 227759,
+              "name": "Snownee_",
+              "url": "https://www.curseforge.com/members/21286654-snownee_?username=snownee_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+)",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "jade",
+          "isFeatured": false,
+          "dateModified": "2023-01-13T16:07:57Z",
+          "dateCreated": "2019-06-19T05:06:23.563Z",
+          "dateReleased": "2023-01-13T15:59:35.953Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jade",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Snownee/Jade/issues",
+            "sourceUrl": "https://github.com/Snownee/Jade"
+          },
+          "logo": {
+            "id": 207323,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
+            "title": "636965628804677340.png",
+            "url": "https://media.forgecdn.net/avatars/207/323/636965628804677340.png",
+            "modId": 324717
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 254867,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/867/310/172/2019-06-19_18.png",
+              "title": "mob effects",
+              "url": "https://media.forgecdn.net/attachments/254/867/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 291527,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/527/310/172/tim20200511195706.png",
+              "title": "Command Block",
+              "url": "https://media.forgecdn.net/attachments/291/527/tim20200511195706.png",
+              "modId": 324717
+            },
+            {
+              "id": 291523,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/523/310/172/tim20200511195815.png",
+              "title": "Note Block",
+              "url": "https://media.forgecdn.net/attachments/291/523/tim20200511195815.png",
+              "modId": 324717
+            },
+            {
+              "id": 254866,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/866/310/172/2019-06-19_18.png",
+              "title": "horse stats",
+              "url": "https://media.forgecdn.net/attachments/254/866/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 254865,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/865/310/172/2019-06-19_18.png",
+              "title": "chest",
+              "url": "https://media.forgecdn.net/attachments/254/865/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 546809,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/546/809/310/172/6.gif",
+              "title": "Breaking Progress",
+              "url": "https://media.forgecdn.net/attachments/546/809/6.gif",
+              "modId": 324717
+            },
+            {
+              "id": 291521,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/521/310/172/tim20200511195828.png",
+              "title": "TNT",
+              "url": "https://media.forgecdn.net/attachments/291/521/tim20200511195828.png",
+              "modId": 324717
+            },
+            {
+              "id": 254864,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/864/310/172/2019-06-19_18.png",
+              "title": "item frame",
+              "url": "https://media.forgecdn.net/attachments/254/864/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 291522,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/522/310/172/tim20200511195823.png",
+              "title": "Beehive",
+              "url": "https://media.forgecdn.net/attachments/291/522/tim20200511195823.png",
+              "modId": 324717
+            },
+            {
+              "id": 291525,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/525/310/172/tim20200511195806.png",
+              "title": "Hide Mod Name",
+              "url": "https://media.forgecdn.net/attachments/291/525/tim20200511195806.png",
+              "modId": 324717
+            },
+            {
+              "id": 254863,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/863/310/172/2019-06-19_18.png",
+              "title": "brewing stand",
+              "url": "https://media.forgecdn.net/attachments/254/863/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 291526,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/526/310/172/tim20200511195756.png",
+              "title": "Armor Stand",
+              "url": "https://media.forgecdn.net/attachments/291/526/tim20200511195756.png",
+              "modId": 324717
+            },
+            {
+              "id": 291524,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/524/310/172/tim20200511195729.png",
+              "title": "Painting",
+              "url": "https://media.forgecdn.net/attachments/291/524/tim20200511195729.png",
+              "modId": 324717
+            }
+          ],
+          "mainFileId": 4330163
+        },
+        "curseForgeFile": {
+          "id": 4318618,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Jade-1.19.1-forge-8.7.0.jar",
+          "fileName": "Jade-1.19.1-forge-8.7.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-01-08T11:49:12.9Z",
+          "fileLength": 415587,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 4318620,
+          "modules": [
+            {
+              "fingerprint": 457231242,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4079464855,
+              "name": "snownee"
+            },
+            {
+              "fingerprint": 1126382090,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1859719455,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2624644293,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6d702cca125877119931202ff11f0b0f429a07b6",
+              "algo": 1
+            },
+            {
+              "value": "651973864ecb3cc31b309e7143594906",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge",
+            "1.19.1"
+          ],
+          "fileFingerprint": 1992106444,
+          "modId": 324717
+        }
+      },
+      {
+        "name": "Jade Addons (Forge)",
+        "version": "JadeAddons-1.19.2-forge-3.3.0.jar",
+        "optional": true,
+        "file": "JadeAddons-1.19.2-forge-3.3.0.jar",
+        "type": "mods",
+        "description": "Jade ?'s additional mod supports for Forge",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 583345,
+        "curseForgeFileId": 4329113,
+        "curseForgeProject": {
+          "id": 583345,
+          "name": "Jade Addons (Forge)",
+          "authors": [
+            {
+              "id": 506228,
+              "name": "Snownee_",
+              "url": "https://www.curseforge.com/members/21286654-snownee_?username=snownee_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Jade ?'s additional mod supports for Forge",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "jade-addons",
+          "isFeatured": false,
+          "dateModified": "2023-01-12T18:53:27.473Z",
+          "dateCreated": "2022-02-26T08:32:46.96Z",
+          "dateReleased": "2023-01-12T18:40:42.003Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jade-addons",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Snownee/JadeAddons/issues",
+            "sourceUrl": "https://github.com/Snownee/JadeAddons"
+          },
+          "logo": {
+            "id": 497744,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/497/744/256/256/637814611670008374.png",
+            "title": "637814611670008374.png",
+            "url": "https://media.forgecdn.net/avatars/497/744/637814611670008374.png",
+            "modId": 583345
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4329113
+        },
+        "curseForgeFile": {
+          "id": 4329113,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "JadeAddons-1.19.2-forge-3.3.0.jar",
+          "fileName": "JadeAddons-1.19.2-forge-3.3.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-01-12T18:40:42.003Z",
+          "fileLength": 49034,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 74072,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 233398,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 361276,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 233105,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 59652,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4055961273,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 238306669,
+              "name": "snownee"
+            },
+            {
+              "fingerprint": 3796703173,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4087374976,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "30f51177d4c46415219e011a6822f1ce43a68d66",
+              "algo": 1
+            },
+            {
+              "value": "da7c1b0e00aa3d94323287b734ab29b5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.19.2",
+            "Forge"
+          ],
+          "fileFingerprint": 4061292095,
+          "modId": 583345
+        }
+      },
+      {
+        "name": "AppleSkin",
+        "version": "appleskin-forge-mc1.19-2.4.2.jar",
+        "optional": true,
+        "file": "appleskin-forge-mc1.19-2.4.2.jar",
+        "type": "mods",
+        "description": "Adds some useful information about food/hunger to the HUD",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 248787,
+        "curseForgeFileId": 3872808,
+        "curseForgeProject": {
+          "id": 248787,
+          "name": "AppleSkin",
+          "authors": [
+            {
+              "id": 44146,
+              "name": "squeek502",
+              "url": "https://www.curseforge.com/members/13914149-squeek502?username=squeek502"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds some useful information about food/hunger to the HUD",
+          "categories": [
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 436,
+          "classId": 6,
+          "slug": "appleskin",
+          "isFeatured": false,
+          "dateModified": "2022-12-12T23:44:01.16Z",
+          "dateCreated": "2016-08-13T19:00:16.187Z",
+          "dateReleased": "2022-12-12T23:22:24.7Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/squeek502/AppleSkin/issues",
+            "sourceUrl": "https://github.com/squeek502/AppleSkin"
+          },
+          "logo": {
+            "id": 47527,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/47/527/256/256/636066936394500688.png",
+            "title": "636066936394500688.png",
+            "url": "https://media.forgecdn.net/avatars/47/527/636066936394500688.png",
+            "modId": 248787
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3927564
+        },
+        "curseForgeFile": {
+          "id": 3872808,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "appleskin-forge-mc1.19-2.4.2.jar",
+          "fileName": "appleskin-forge-mc1.19-2.4.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-07-12T22:39:02.983Z",
+          "fileLength": 46991,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4264115194,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1160740799,
+              "name": "squeek"
+            },
+            {
+              "fingerprint": 3071333817,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1383794256,
+              "name": "appleskin.png"
+            },
+            {
+              "fingerprint": 3447702788,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "20f4e36e5c78bdef303683ccb96d77b2036da3ce",
+              "algo": 1
+            },
+            {
+              "value": "3cd43c763f6e9a244a115606faaecf4f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.19.2",
+            "Forge",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 271456054,
+          "modId": 248787
+        }
       }
     ],
     "ignoredUpdates": [],
     "vanillaInstance": true,
-    "lastPlayed": 1674516502225,
-    "numPlays": 3
+    "lastPlayed": 1674885765082,
+    "numPlays": 10
   },
   "id": "1.19.2",
   "complianceLevel": 1,
