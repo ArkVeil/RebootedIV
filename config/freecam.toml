@@ -8,10 +8,10 @@
 	"Interaction Mode" = "CAMERA"
 	#The horizontal speed of freecam.
 	#Range: 0.0 ~ 10.0
-	"Horizontal Speed" = 0.5
+	"Horizontal Speed" = 0.4
 	#The vertical speed of freecam.
 	#Range: 0.0 ~ 10.0
-	"Vertical Speed" = 0.5
+	"Vertical Speed" = 0.4
 	#Whether you can travel through blocks in freecam.
 	"No Clip" = false
 	#Disables freecam when damage is received.
