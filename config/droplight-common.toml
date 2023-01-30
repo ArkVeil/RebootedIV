@@ -43,7 +43,7 @@
 	# If items should be tossed into the air when dropped from a slain mob.  Must be set on server for multiplayer.
 	tossDrops = true
 	# If items should rotate wildly when thrown.
-	itemFlipping = true
+	itemFlipping = false
 
 # Configure sound options
 [Sound]
