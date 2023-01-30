@@ -1,7 +1,10 @@
-
+jarmods/
+localconfigs/
 logs/
 saves/
+patchouli_books/
 crash-reports/
+schematics/
 usercache.json
 usernamecache.json
 servers.dat_old
