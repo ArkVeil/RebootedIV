@@ -1,6 +1,7 @@
 
 logs/
 saves/
+crash-reports/
 usercache.json
 usernamecache.json
 servers.dat_old
