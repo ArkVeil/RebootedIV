@@ -5,6 +5,7 @@ saves/
 patchouli_books/
 crash-reports/
 schematics/
+debug/
 usercache.json
 usernamecache.json
 servers.dat_old
