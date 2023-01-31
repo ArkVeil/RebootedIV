@@ -1421,7 +1421,7 @@
 	"Long Range Pick Block" = true
 	"Improved Tooltips" = true
 	"Greener Grass" = true
-	"Elytra Indicator" = false
+	"Elytra Indicator" = true
 	"Chest Searching" = true
 	Camera = true
 	"Back Button Keybind" = true
