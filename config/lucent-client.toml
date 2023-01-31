@@ -83,7 +83,7 @@
 	#
 	# Should block textures emit light brighter than usual.
 	# Default: true
-	blockTexturesGlow = true
+	blockTexturesGlow = false
 	#
 	# Modifies the light level of block textures. Allows for adding modded blocks. Set the light to -1 to unregister it.
 	# Example: ["minecraft:block/end_portal_frame_eye=12", "minecraft:block/stone=4"]
@@ -112,9 +112,17 @@
 		#
 		# Disables emissive block textures if an incompatible mod is discovered.
 		# Default: true
-		disableBlockTextureGlowIfError = true
+		disableBlockTextureGlowIfError = false
 		#
 		# Warns when Flywheel is installed since you may see weird dynamic lighting on some blocks from Create.
 		# Default: true
-		warnAboutFlywheel = true
+		warnAboutFlywheel = false
+
+[mod_compat]
+
+	[mod_compat.enabled_builtin_plugins]
+		#
+		# Enables the plugin for Create.
+		# Default: true
+		create = true
 
