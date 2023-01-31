@@ -407,7 +407,7 @@
 		"Enable Special Awesome Parrot" = true
 
 	[tools.endermosh_music_disc]
-		"Play Endermosh During Enderdragon Fight" = false
+		"Play Endermosh During Enderdragon Fight" = true
 		"Add To End City Loot" = true
 		"Loot Weight" = 5
 		"Loot Quality" = 1
@@ -529,9 +529,9 @@
 
 	[tweaks.simple_harvest]
 		#Can players harvest crops with empty hand clicks?
-		"Empty Hand Harvest" = true
+		"Empty Hand Harvest" = false
 		#Does harvesting crops with a hoe cost durability?
-		"Harvesting Costs Durability" = false
+		"Harvesting Costs Durability" = true
 		#Should Quark look for (nonvanilla) crops, and handle them?
 		"Do Harvesting Search" = true
 		#Which crops can be harvested?
@@ -611,15 +611,15 @@
 
 	[tweaks.gold_tools_have_fortune]
 		#Allowed values: [0,)
-		"Fortune Level" = 2
+		"Fortune Level" = 1
 		#Allowed values: [0,4]
-		"Harvest Level" = 2
+		"Harvest Level" = 1
 
 	[tweaks.enhanced_ladders]
 		#Allowed values: (,0]
 		"Fall Speed" = -0.2
 		"Allow Freestanding" = true
-		"Allow Dropping Down" = true
+		"Allow Dropping Down" = false
 		"Allow Sliding" = true
 		"Allow Inventory Sneak" = true
 
@@ -1421,7 +1421,7 @@
 	"Long Range Pick Block" = true
 	"Improved Tooltips" = true
 	"Greener Grass" = true
-	"Elytra Indicator" = true
+	"Elytra Indicator" = false
 	"Chest Searching" = true
 	Camera = true
 	"Back Button Keybind" = true
@@ -1457,7 +1457,7 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
@@ -1465,7 +1465,7 @@
 		"Shulker Box Use Colors" = true
 		"Shulker Box Require Shift" = false
 		"Map Require Shift" = false
-		"Show Saturation" = true
+		"Show Saturation" = false
 		"Food Compression Threshold" = 4
 		"Fuel Time Divisor" = 200
 		#The value of each shank of food. Tweak this when using mods like Hardcore Hunger which change that value.
@@ -1510,7 +1510,7 @@
 	"Spawner Replacer" = false
 	"Overlay Shader" = false
 	"Narrator Readout" = false
-	"Game Nerfs" = false
+	"Game Nerfs" = true
 	"Enchantments Begone" = false
 	"Adjustable Chat" = false
 
@@ -1528,18 +1528,18 @@
 	[experimental.game_nerfs]
 		#Makes Mending act like the Unmending mod
 		#https://www.curseforge.com/minecraft/mc-mods/unmending
-		"Nerf Mending" = true
+		"Nerf Mending" = false
 		#Resets all villager discounts when zombified to prevent reducing prices to ridiculous levels
 		"Nerf Villager Discount" = true
 		#Makes Iron Golems not drop Iron Ingots
-		"Disable Iron Farms" = true
+		"Disable Iron Farms" = false
 		#Makes Boats not glide on ice
-		"Disable Ice Roads" = true
+		"Disable Ice Roads" = false
 		#Makes Sheep not drop Wool when killed
-		"Disable Wool Drops" = true
+		"Disable Wool Drops" = false
 		#Disables mob griefing for only specific entities
 		"Enable Selective Mob Griefing" = true
-		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
+		"Non Griefing Entities" = ["minecraft:enderman"]
 
 	[experimental.enchantments_begone]
 		"Enchantments To Begone" = []
