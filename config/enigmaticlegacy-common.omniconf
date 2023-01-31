@@ -55,13 +55,13 @@
     B:BottleofIchorEnabled=true
 
     # Whether or not Bulwark of Blazing Pride should be enabled. [default: true, synchronized: yes]
-    B:BulwarkofBlazingPrideEnabled=true
+    B:BulwarkofBlazingPrideEnabled=false
 
     # Whether or not Ceaseless Enchantment should be enabled. [default: true, synchronized: yes]
     B:CeaselessEnchantmentEnabled=true
 
     # Whether or not Celestial Fruit should be enabled. [default: true, synchronized: yes]
-    B:CelestialFruitEnabled=true
+    B:CelestialFruitEnabled=false
 
     # Whether or not Charming Insignia should be enabled. [default: true, synchronized: yes]
     B:CharmingInsigniaEnabled=true
@@ -106,7 +106,7 @@
     B:EmblemofMonsterSlayerEnabled=true
 
     # Whether or not Enchanter's Pearl should be enabled. [default: true, synchronized: yes]
-    B:EnchantersPearlEnabled=true
+    B:EnchantersPearlEnabled=false
 
     # Whether or not Ender Rod should be enabled. [default: true, synchronized: yes]
     B:EnderRodEnabled=true
@@ -172,7 +172,7 @@
     B:GuitetoAnimalCompanionshipEnabled=true
 
     # Whether or not Heart of the Abyss should be enabled. [default: true, synchronized: yes]
-    B:HeartoftheAbyssEnabled=true
+    B:HeartoftheAbyssEnabled=false
 
     # Whether or not Heart of the Cosmos should be enabled. [default: true, synchronized: yes]
     B:HeartoftheCosmosEnabled=true
@@ -184,7 +184,7 @@
     B:HeartoftheGolemEnabled=true
 
     # Whether or not Heart of the Guardian should be enabled. [default: true, synchronized: yes]
-    B:HeartoftheGuardianEnabled=true
+    B:HeartoftheGuardianEnabled=false
 
     # Whether or not Inscrutable Eye should be enabled. [default: true, synchronized: yes]
     B:InscrutableEyeEnabled=true
@@ -211,10 +211,10 @@
     B:MendingMixtureEnabled=true
 
     # Whether or not Nefarious Essence should be enabled. [default: true, synchronized: yes]
-    B:NefariousEssenceEnabled=true
+    B:NefariousEssenceEnabled=false
 
     # Whether or not Nefarious Ingot should be enabled. [default: true, synchronized: yes]
-    B:NefariousIngotEnabled=true
+    B:NefariousIngotEnabled=false
 
     # Whether or not Non-Euclidean Cube should be enabled. [default: true, synchronized: yes]
     B:NonEuclideanCubeEnabled=true
@@ -229,7 +229,7 @@
     B:PotionofRecallEnabled=true
 
     # Whether or not Potion of Twisted Mercy should be enabled. [default: true, synchronized: yes]
-    B:PotionofTwistedMercyEnabled=true
+    B:PotionofTwistedMercyEnabled=false
 
     # If true, Enigmatic Legacy will cycle through each player's recipe book and trigger 'minecraft:recipe_unlocked' criterion trigger for everything that they have unlocked upon player joining the world. [default: true, synchronized: no]
     B:RetriggerRecipeUnlocks=true
@@ -241,16 +241,16 @@
     B:RingofEnderEnabled=true
 
     # Whether or not Ring of the Seven Curses should be enabled. [default: true, synchronized: yes]
-    B:RingoftheSevenCursesEnabled=true
+    B:RingoftheSevenCursesEnabled=false
 
     # Whether or not Scroll of Ageless Wisdom should be enabled. [default: true, synchronized: yes]
-    B:ScrollofAgelessWisdomEnabled=true
+    B:ScrollofAgelessWisdomEnabled=false
 
     # Whether or not Scroll of Postmortal Recall should be enabled. [default: true, synchronized: yes]
     B:ScrollofPostmortalRecallEnabled=true
 
     # Whether or not Scroll of a Thousand Curses should be enabled. [default: true, synchronized: yes]
-    B:ScrollofaThousandCursesEnabled=true
+    B:ScrollofaThousandCursesEnabled=false
 
     # Whether or not Sharpshooter Enchantment should be enabled. [default: true, synchronized: yes]
     B:SharpshooterEnchantmentEnabled=true
@@ -268,34 +268,34 @@
     B:TheArchitectsInkwellEnabled=true
 
     # Whether or not The Burden of Desolation should be enabled. [default: true, synchronized: yes]
-    B:TheBurdenofDesolationEnabled=true
+    B:TheBurdenofDesolationEnabled=false
 
     # Whether or not The Ender Slayer should be enabled. [default: true, synchronized: yes]
-    B:TheEnderSlayerEnabled=true
+    B:TheEnderSlayerEnabled=false
 
     # Whether or not The Infinitum should be enabled. [default: true, synchronized: yes]
     B:TheInfinitumEnabled=true
 
     # Whether or not The Testament of Contempt should be enabled. [default: true, synchronized: yes]
-    B:TheTestamentofContemptEnabled=true
+    B:TheTestamentofContemptEnabled=false
 
     # Whether or not The Twist should be enabled. [default: true, synchronized: yes]
-    B:TheTwistEnabled=true
+    B:TheTwistEnabled=false
 
     # Whether or not Tome of Devoured Malignancy should be enabled. [default: true, synchronized: yes]
-    B:TomeofDevouredMalignancyEnabled=true
+    B:TomeofDevouredMalignancyEnabled=false
 
     # Whether or not Tome of Hungering Knowledge should be enabled. [default: true, synchronized: yes]
-    B:TomeofHungeringKnowledgeEnabled=true
+    B:TomeofHungeringKnowledgeEnabled=false
 
     # Whether or not Torrent Enchantment should be enabled. [default: true, synchronized: yes]
     B:TorrentEnchantmentEnabled=true
 
     # Whether or not Twisted Heart should be enabled. [default: true, synchronized: yes]
-    B:TwistedHeartEnabled=true
+    B:TwistedHeartEnabled=false
 
     # Whether or not Twisted Mirror should be enabled. [default: true, synchronized: yes]
-    B:TwistedMirrorEnabled=true
+    B:TwistedMirrorEnabled=false
 
     # Whether or not Ultimate Potions should be enabled. [default: true, synchronized: yes]
     B:UltimatePotionsEnabled=true
@@ -304,10 +304,10 @@
     B:UnholyGrailEnabled=true
 
     # Whether or not Unholy Stone should be enabled. [default: true, synchronized: yes]
-    B:UnholyStoneEnabled=true
+    B:UnholyStoneEnabled=false
 
     # Whether or not Wayfinder of the Damned should be enabled. [default: true, synchronized: yes]
-    B:WayfinderoftheDamnedEnabled=true
+    B:WayfinderoftheDamnedEnabled=false
 
     # Whether or not Will of the Ocean should be enabled. [default: true, synchronized: yes]
     B:WilloftheOceanEnabled=true

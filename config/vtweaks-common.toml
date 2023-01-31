@@ -11,7 +11,7 @@
 	foodTooltipSetting = "NEVER"
 	#Show tool durability on item hover
 	#Allowed Values: NEVER, WITH_SHIFT, ALWAYS
-	durabilityTooltipSetting = "ALWAYS"
+	durabilityTooltipSetting = "WITH_SHIFT"
 
 [world]
 	#Disables thunder storms, fixing glitched lighting from thunder and other side-effects
