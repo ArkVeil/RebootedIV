@@ -61,5 +61,8 @@
     "exact_block": true,
     "crafting_blueprint": true,
     "placard": true
+  },
+  "camera": {
+    "image_frame": true
   }
 }

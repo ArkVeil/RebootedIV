@@ -129,4 +129,8 @@
 		# Enables the plugin for Blue Skies.
 		# Default: true
 		blue_skies = true
+		#
+		# Enables the plugin for Quark.
+		# Default: true
+		quark = true
 
