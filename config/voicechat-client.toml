@@ -1,16 +1,16 @@
 #The voice chat volume
 #Range: 0.0 ~ 2.0
-voice_chat_volume = 1.0
+voice_chat_volume = 0.9863636363636363
 #The threshold for voice activation in dB
 #Range: -127.0 ~ 0.0
-voice_activation_threshold = -50.0
+voice_activation_threshold = -41.852272727272734
 #The voice chat microphone amplification
 #Range: 0.0 ~ 4.0
 microphone_amplification = 1.0
 #Microphone activation type
 #Possible values are 'PTT' and 'VOICE'
 #Allowed Values: PTT, VOICE
-microphone_activation_type = "PTT"
+microphone_activation_type = "VOICE"
 #The size of the audio output buffer in packets
 #Higher values mean a higher latency, but less crackles
 #Increase this value if you have an unstable internet connection
@@ -75,7 +75,7 @@ recording_destination = ""
 #Range: 0 ~ 9
 recording_quality = 2
 #If noise cancellation should be enabled
-denoiser = false
+denoiser = true
 #If voice chat should work in singleplayer/LAN worlds
 run_local_server = true
 #Whether to use the Java implementation of microphone capturing instead of OpenAL
