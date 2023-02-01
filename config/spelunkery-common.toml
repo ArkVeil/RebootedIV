@@ -1,16 +1,16 @@
 
 [misc]
 	creative_tab = false
-	cross_section_world_mode = true
+	cross_section_world_mode = false
 	increased_slime_spawn_rate = true
 	enable_rough_gems = true
 	enable_raw_nuggets = true
 
 [nether_portals]
 	flint_and_steel_portal_lighting = true
-	crying_obsidian_dimensional_tears = true
-	respawn_anchor_dimensional_tears = true
-	portal_destruction_crying_obsidian = true
+	crying_obsidian_dimensional_tears = false
+	respawn_anchor_dimensional_tears = false
+	portal_destruction_crying_obsidian = false
 	piglins_give_crying_obsidian = true
 	portal_creation_sound = true
 	portal_destruction_sound = true
