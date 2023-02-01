@@ -3,7 +3,7 @@
 ["Helmet Visuals"]
 	#
 	# The Mining Helmet will cover the face of whatever mob is wearing it. Requires restarting the game.
-	helmetCoversFace = true
+	helmetCoversFace = false
 
 ["Dynamic Lighting (NOTE: These options do nothing with Lucent installed)"]
 	#

@@ -150,7 +150,7 @@
 		sack_increment = 1
 		#How many slots should a sack have
 		#Range: 1 ~ 27
-		slots = 21
+		slots = 14
 
 	[blocks.safe]
 		#Makes safes only breakable by their owner or by a player in creative
@@ -372,6 +372,8 @@
 		rotten_flesh = 64
 		#Allows zombie horses to be ridden underwater
 		rideable_underwater = true
+		#Convert a zombie horse back by feeding it a golden carrot
+		zombie_horse_inverse_conversion = true
 
 [items]
 
