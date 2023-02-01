@@ -408,7 +408,7 @@
 		#Range: 1 ~ 256
 		capacity = 32
 		#Makes rope arrows exclusive to crossbows
-		exclusive_to_crossbows = false
+		exclusive_to_crossbows = true
 
 	[items.flute]
 		#Radius in which an unbound flute will search pets
