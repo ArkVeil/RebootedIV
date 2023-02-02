@@ -15,7 +15,7 @@
 	crouch_distance_multiplier = 1.0
 	#The multiplier the voice distance will be reduced by when whispering
 	#Range: 0.01 ~ 1.0
-	whisper_distance_multiplier = 0.5
+	whisper_distance_multiplier = 0.1
 	#The opus codec
 	#Allowed Values: VOIP, AUDIO, RESTRICTED_LOWDELAY
 	codec = "VOIP"
