@@ -21,3 +21,5 @@ config/jei/world/server/GuildHall_Modded_d5f38a26/bookmarks.ini
 config/voicechat/username-cache.json
 config/voicechat-client.toml
 config/voicechat/username-cache.json
+config/voicechat/voicechat-volumes.properties
+config/voicechat/username-cache.json
