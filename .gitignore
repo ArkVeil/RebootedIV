@@ -23,3 +23,4 @@ config/voicechat-client.toml
 config/voicechat/username-cache.json
 config/voicechat/voicechat-volumes.properties
 config/voicechat/username-cache.json
+config/voicechat-client.toml
