@@ -17,3 +17,7 @@ instance.json
 enigmatic_persistence.dat
 patchouli_data.json
 config/fastload.properties
+config/jei/world/server/GuildHall_Modded_d5f38a26/bookmarks.ini
+config/voicechat/username-cache.json
+config/voicechat-client.toml
+config/voicechat/username-cache.json
