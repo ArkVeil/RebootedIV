@@ -17,6 +17,7 @@
 	#Range: 0.0 ~ 1.0
 	immune_chance = 0.4
 	needs_air = true
+	enabled = true
 
 [cracked_blocks]
 	#Range: 0.0 ~ 1.0
@@ -26,6 +27,7 @@
 	#Range: 0.0 ~ 1.0
 	immune_chance = 0.4
 	needs_air = false
+	enabled = true
 
 [icicle]
 	react_to_vibrations = true
