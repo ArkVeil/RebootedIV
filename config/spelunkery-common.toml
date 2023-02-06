@@ -2,9 +2,11 @@
 [misc]
 	creative_tab = false
 	cross_section_world_mode = false
-	increased_slime_spawn_rate = true
+	increased_slime_spawn_rate = false
 	enable_rough_gems = true
 	enable_raw_nuggets = true
+	enable_gem_shards = true
+	sculk_drops_with_shears = true
 
 [nether_portals]
 	flint_and_steel_portal_lighting = true
