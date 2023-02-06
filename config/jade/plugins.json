@@ -22,7 +22,7 @@
     "harvest_tool": true,
     "armor_stand": true,
     "fluid": true,
-    "horse_stats": true,
+    "horse_stats": false,
     "item_tooltip": false,
     "entity_health": true,
     "energy_storage": true,
