@@ -218,7 +218,7 @@ key_key.wallslide.description:key.keyboard.f23
 key_key.breakfall.description:key.keyboard.r
 key_key.dodge.description:key.keyboard.r
 key_key.crawl.description:key.keyboard.c
-key_key.fastrunning.description:key.keyboard.left.control
+key_key.fastrunning.description:key.keyboard.f24
 key_key.grab.description:key.keyboard.f23
 key_key.parcool.setting.open:key.keyboard.l
 key_key.freecam.toggle:key.keyboard.f4

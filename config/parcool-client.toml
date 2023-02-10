@@ -58,7 +58,7 @@
 	#Enable Roll While player is in creative mode (experimental)
 	enableRollCreative = false
 	#Make Vault Need Vault Key Pressed
-	vaultNeedKeyPressed = false
+	vaultNeedKeyPressed = true
 	#enable players to do actions needing Fast-Running by sprint
 	replaceSprintWithFastRun = true
 	#Substitute a sprint of vanilla for the FastRunning
@@ -70,7 +70,7 @@
 #Stamina Section may be affected by Server config
 [Stamina]
 	#ParCool consume hanger value instead of stamina
-	useHangerInstead = false
+	useHangerInstead = true
 	#Range: 300 ~ 10000
 	MaxValueOfStamina = 2000
 
