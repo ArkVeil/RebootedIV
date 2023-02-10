@@ -19,7 +19,7 @@
 ["Modifier Values"]
 	#FastRun Speed Modifier
 	#Range: 0.001 ~ 4.5
-	fastRunModifier = 0.01
+	fastRunModifier = 0.001
 
 ["Stamina HUD Configuration"]
 	#hide stamina HUD when Stamina is infinite
@@ -62,7 +62,7 @@
 	#enable players to do actions needing Fast-Running by sprint
 	replaceSprintWithFastRun = false
 	#Substitute a sprint of vanilla for the FastRunning
-	substituteSprint = false
+	substituteSprint = true
 	#Infinite Stamina(this needs a permission from server, even if it is on single player's game)
 	#Please check 'parcool-server.toml' in 'serverconfig' directory
 	infiniteStamina = false
