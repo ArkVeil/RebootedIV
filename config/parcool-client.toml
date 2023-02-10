@@ -19,7 +19,7 @@
 ["Modifier Values"]
 	#FastRun Speed Modifier
 	#Range: 0.001 ~ 4.5
-	fastRunModifier = 0.0
+	fastRunModifier = 0.01
 
 ["Stamina HUD Configuration"]
 	#hide stamina HUD when Stamina is infinite
@@ -60,9 +60,9 @@
 	#Make Vault Need Vault Key Pressed
 	vaultNeedKeyPressed = true
 	#enable players to do actions needing Fast-Running by sprint
-	replaceSprintWithFastRun = true
+	replaceSprintWithFastRun = false
 	#Substitute a sprint of vanilla for the FastRunning
-	substituteSprint = true
+	substituteSprint = false
 	#Infinite Stamina(this needs a permission from server, even if it is on single player's game)
 	#Please check 'parcool-server.toml' in 'serverconfig' directory
 	infiniteStamina = false
