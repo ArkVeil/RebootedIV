@@ -28,3 +28,9 @@
 	#Range: 1 ~ 512
 	magnetite_range = 128
 
+[echo_fork]
+	#Range: 1 ~ 72000
+	echo_fork_range = 600
+	#Range: 1 ~ 72000
+	echo_glow_durration = 1200
+

@@ -23,6 +23,8 @@ allowFlagImages = true
 disabledPlanets = ""
 #Prevents stuff like gravity and oxygen checks in the overworld as that's normally not used in Ad Astra. enable if you're making an addon or something that transforms the overworld into some sort of planet.
 avoidOverworldChecks = true
+oxygenBarScale = 1.0
+energyBarScale = 1.0
 
 [spawning]
 	spawnCorruptedLunarians = true
