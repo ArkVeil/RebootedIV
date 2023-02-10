@@ -46,7 +46,7 @@
 	#Auto turning forward when WallJump
 	autoTurningWallJump = false
 	#Disable WallJump toward a wall
-	disableWallJumpTowardWall = false
+	disableWallJumpTowardWall = true
 	#Disable Roll rotation of camera
 	disableCameraRotationRolling = false
 	#Disable Flipping rotation of camera
@@ -82,11 +82,11 @@
 		#Range: 0 ~ 10000
 		ClingToCliff = 2
 		#Range: 0 ~ 10000
-		ClimbUp = 150
+		ClimbUp = 100
 		#Range: 0 ~ 10000
 		Dodge = 80
 		#Range: 0 ~ 10000
-		FastRunning = 2
+		FastRunning = 4
 		#Range: 0 ~ 10000
 		Flipping = 80
 		#Range: 0 ~ 10000
