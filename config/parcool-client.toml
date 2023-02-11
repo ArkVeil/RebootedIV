@@ -54,7 +54,7 @@
 	#Disable Double-Tapping For Dodge. Please Use Dodge Key instead
 	disableDoubleTapping = false
 	#Disable Crawl in air (experimental)
-	disableCrawlInAir = true
+	disableCrawlInAir = false
 	#Enable Roll While player is in creative mode (experimental)
 	enableRollCreative = false
 	#Make Vault Need Vault Key Pressed
