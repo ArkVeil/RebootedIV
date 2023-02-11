@@ -19,7 +19,7 @@
 ["Modifier Values"]
 	#FastRun Speed Modifier
 	#Range: 0.001 ~ 4.5
-	fastRunModifier = 0.001
+	fastRunModifier = 0.1
 
 ["Stamina HUD Configuration"]
 	#hide stamina HUD when Stamina is infinite
