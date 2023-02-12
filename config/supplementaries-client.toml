@@ -8,6 +8,10 @@
 		#Enable a random globe texture for each world
 		random_world = true
 
+	[blocks.notice_board]
+		#Allows notice board displayed text to be centered instead of being left aligned
+		centered_text = true
+
 	[blocks.clock_block]
 		#Display 24h time format. False for 12h format
 		24h_format = true
@@ -108,11 +112,7 @@
 		wobbling_amplitude = 0.8
 		#Period of rope wobbling effect
 		#Range: 0.01 ~ 200.0
-		wobbling_period = 20.0
-
-	[blocks.notice_board]
-		#Allows notice board displayed text to be centered instead of being left aligned
-		centered_text = true
+		wobbling_period = 12.0
 
 #Particle parameters
 [particles]
@@ -132,6 +132,8 @@
 	tooltip_hints = true
 	#Show tooltips items that have been made placeable
 	placeable_tooltips = true
+	#Enables custom Configured config screen
+	custom_configured_screen = true
 	#ignore this
 	#Range: -10.0 ~ 10.0
 	test1 = 0.0
@@ -141,8 +143,6 @@
 	#ignore this
 	#Range: -10.0 ~ 10.0
 	test3 = 0.0
-	#Enables custom Configured config screen
-	custom_configured_screen = true
 
 #Game tweaks
 [tweaks]
@@ -154,7 +154,7 @@
 	#Allow to right click with a clock to display current time in numerical form
 	clock_right_click = true
 	#Allow to right click with a compass to display current coordinates in numerical form
-	compass_right_click = true
+	compass_right_click = false
 	#Renders an enchantment glint on placeable enchanted books
 	placeable_books_glint = false
 	#Enables banner pattern tooltip image preview
@@ -188,7 +188,7 @@
 		#Adds an overlay to quivers in gui displaying currently selected arrow
 		overlay = true
 		#Allows using your mouse to select an arrow in the quiver GUI
-		mouse_movement_in_gui = false
+		mouse_movement_in_gui = true
 		#Quiver GUI X offset from default position
 		#Range: -1000 ~ 1000
 		gui_x_offset = 0
