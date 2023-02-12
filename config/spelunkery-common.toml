@@ -7,6 +7,8 @@
 	enable_raw_nuggets = true
 	enable_gem_shards = true
 	sculk_drops_with_shears = true
+	#Range: 1 ~ 128
+	diamond_grindstone_deplete_chance = 20
 
 [nether_portals]
 	flint_and_steel_portal_lighting = true
@@ -29,8 +31,10 @@
 	magnetite_range = 128
 
 [echo_fork]
-	#Range: 1 ~ 72000
-	echo_fork_range = 600
+	#Range: 1 ~ 128
+	echo_fork_range = 128
 	#Range: 1 ~ 72000
 	echo_glow_durration = 1200
+	#Range: 1 ~ 72000
+	echo_cooldown = 600
 
