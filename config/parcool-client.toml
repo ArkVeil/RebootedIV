@@ -70,15 +70,15 @@
 #Stamina Section may be affected by Server config
 [Stamina]
 	#ParCool consume hanger value instead of stamina
-	useHangerInstead = true
+	useHangerInstead = false
 	#Range: 300 ~ 10000
-	MaxValueOfStamina = 1000
+	MaxValueOfStamina = 1200
 
 	[Stamina.Consumption]
 		#Range: 0 ~ 10000
 		Breakfall = 100
 		#Range: 0 ~ 10000
-		CatLeap = 150
+		CatLeap = 300
 		#Range: 0 ~ 10000
 		ClingToCliff = 2
 		#Range: 0 ~ 10000
