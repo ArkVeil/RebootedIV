@@ -74,9 +74,9 @@
 	[utilities.rope]
 		enabled = true
 		#Allows ropes to be supported & attached to solid block sides
-		block_side_attachment = true
+		block_side_attachment = false
 		#Makes sliding down ropes as fast as free falling, still negating fall damage
-		slide_on_fall = true
+		slide_on_fall = false
 		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
 		rope_override = "supplementaries:rope"
 
@@ -91,7 +91,7 @@
 		#Allows the player to directly drink from jar items
 		drink_from_jar_item = false
 		#Dynamically allows all small mobs inside jars depending on their hitbox size. Tinted jars can accept hostile mbos too
-		jar_auto_detect = false
+		jar_auto_detect = true
 		#Allow Jars to capture small mobs
 		jar_capture = true
 		#Allow Jars to hold cookies
@@ -136,7 +136,7 @@
 		#Allows all baby mobs to be captured by cages
 		cage_allow_all_babies = false
 		#Dynamically allows all small mobs inside cages depending on their hitbox size
-		cage_auto_detect = false
+		cage_auto_detect = true
 		#Makes it so all (hostile) mobs captured by cages and jars will be set to persistent so they won't despawn when released
 		persistent_mobs = false
 		#Health percentage under which mobs will be allowed to be captured by cages and jars. Leave at 100 to accept any health level
@@ -157,10 +157,10 @@
 		sack_penalty = true
 		#Maximum number of sacks after which the overencumbered effect will be applied. Each multiple of this number will increase the effect strength by one
 		#Range: 0 ~ 50
-		sack_increment = 2
+		sack_increment = 1
 		#How many slots should a sack have
 		#Range: 1 ~ 27
-		slots = 9
+		slots = 14
 
 	[utilities.bamboo_spikes]
 		enabled = true
@@ -245,7 +245,7 @@
 	[building.timber_frame]
 		enabled = true
 		#Allow placing a timber frame directly on a block by holding shift
-		swap_on_shift = false
+		swap_on_shift = true
 		#Allows axes to remove a framed block leaving the contained block intact
 		axes_strip = true
 		#Replace a timber frame with wattle and daub block when daub is placed in it
@@ -344,7 +344,7 @@
 		slots = 6
 		#Increase this number to alter the probability for a Skeleton with quiver to spawn. Note that this also depends on local difficulty so you wont ever see them on easy and very rarely on normal. Similar logic to equipment
 		#Range: 0.0 ~ 1.0
-		quiver_skeleton_chance = 0.2
+		quiver_skeleton_chance = 0.1
 		#Allows quiver to only be used when in offhand or in curio slot
 		only_works_in_curio = false
 		#Arrows you pickup will try to go in a quiver if available provided it has some arrow of the same type
@@ -377,7 +377,7 @@
 		#Range: 1 ~ 256
 		capacity = 32
 		#Makes rope arrows exclusive to crossbows
-		exclusive_to_crossbows = false
+		exclusive_to_crossbows = true
 
 	[tools.flute]
 		enabled = true
