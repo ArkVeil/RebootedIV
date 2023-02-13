@@ -1,6 +1,6 @@
 
 ["Possibility of Actions"]
-	canCatLeap = true
+	canCatLeap = false
 	canCrawl = true
 	#Possibility to Frontward-Dodge By double tapping a button
 	canFrontDodgeByDoubleTapping = false
@@ -60,7 +60,7 @@
 	#Make Vault Need Vault Key Pressed
 	vaultNeedKeyPressed = true
 	#enable players to do actions needing Fast-Running by sprint
-	replaceSprintWithFastRun = false
+	replaceSprintWithFastRun = true
 	#Substitute a sprint of vanilla for the FastRunning
 	substituteSprint = true
 	#Infinite Stamina(this needs a permission from server, even if it is on single player's game)
@@ -78,7 +78,7 @@
 		#Range: 0 ~ 10000
 		Breakfall = 100
 		#Range: 0 ~ 10000
-		CatLeap = 1000
+		CatLeap = 300
 		#Range: 0 ~ 10000
 		ClingToCliff = 2
 		#Range: 0 ~ 10000
@@ -86,7 +86,7 @@
 		#Range: 0 ~ 10000
 		Dodge = 80
 		#Range: 0 ~ 10000
-		FastRunning = 100
+		FastRunning = 4
 		#Range: 0 ~ 10000
 		Flipping = 80
 		#Range: 0 ~ 10000
