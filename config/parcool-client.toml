@@ -70,7 +70,7 @@
 #Stamina Section may be affected by Server config
 [Stamina]
 	#ParCool consume hanger value instead of stamina
-	useHangerInstead = false
+	useHangerInstead = true
 	#Range: 300 ~ 10000
 	MaxValueOfStamina = 1200
 
@@ -78,7 +78,7 @@
 		#Range: 0 ~ 10000
 		Breakfall = 100
 		#Range: 0 ~ 10000
-		CatLeap = 300
+		CatLeap = 1000
 		#Range: 0 ~ 10000
 		ClingToCliff = 2
 		#Range: 0 ~ 10000
@@ -86,7 +86,7 @@
 		#Range: 0 ~ 10000
 		Dodge = 80
 		#Range: 0 ~ 10000
-		FastRunning = 4
+		FastRunning = 100
 		#Range: 0 ~ 10000
 		Flipping = 80
 		#Range: 0 ~ 10000
