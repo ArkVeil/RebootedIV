@@ -1538,7 +1538,7 @@
 		#Makes Sheep not drop Wool when killed
 		"Disable Wool Drops" = false
 		#Disables mob griefing for only specific entities
-		"Enable Selective Mob Griefing" = true
+		"Enable Selective Mob Griefing" = false
 		"Non Griefing Entities" = ["minecraft:enderman"]
 
 	[experimental.enchantments_begone]
