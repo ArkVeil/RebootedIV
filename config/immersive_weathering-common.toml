@@ -42,6 +42,8 @@
 	icicle = 300
 	#Range: 0 ~ 5
 	permafrost_increment = 2
+	enable_water_freezing = false
+	enable_permafrost_freezing = false
 
 [charring]
 	#Range: 0.0 ~ 1.0
