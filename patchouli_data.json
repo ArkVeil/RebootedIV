@@ -1,5 +1,20 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "parcool:parcool_guide": {
+      "viewedEntries": [
+        "parcool:others/passive_actions",
+        "parcool:others/energy_drink",
+        "parcool:actions/dodge",
+        "parcool:actions/flipping",
+        "parcool:actions/vault",
+        "parcool:actions/quick_turn",
+        "parcool:actions/hang_down",
+        "parcool:actions/catleap"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
