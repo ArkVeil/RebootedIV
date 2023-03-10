@@ -57,3 +57,19 @@
 	#Range: 0 ~ 24000
 	end_time = 0
 
+[general]
+	#Enable Creative Tab
+	creative_tab = false
+	#Enables custom Configured config screen
+	custom_configured_screen = true
+
+#Here are configs that need reloading to take effect
+[features]
+	corn = true
+	grim_apple = true
+	paper_bag = true
+	popcorn = true
+	carved_pumpkin = true
+	splattered_egg = true
+	candy_corn = true
+
