@@ -82,7 +82,7 @@
 [Modifiers]
 	#FastRun Speed Modifier
 	#Range: 0.001 ~ 4.0
-	fast-run_modifier = 2.0
+	fast-run_modifier = 1.5
 	#Dodge Speed Modifier
 	#Range: 0.5 ~ 1.5
 	dodge-speed_modifier = 1.0
